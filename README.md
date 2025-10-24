@@ -32,5 +32,7 @@ Responsive design ensures that your website adapts smoothly to different screen 
 8. Ensure images scale within containers
    Use responsive image properties
 
-**Attached Screenshot**
+**Attached Screenshots**
 <img width="1920" height="933" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/6963da67-81e7-4194-b54d-f0aebe14cb8a" />
+<img width="1920" height="867" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/61be2414-48df-43d1-b0a9-4ab2b12af0e0" />
+
